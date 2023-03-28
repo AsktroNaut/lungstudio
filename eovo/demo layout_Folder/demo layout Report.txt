@@ -1,0 +1,192 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: demo layout.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: pixels
+Artboard Dimensions: 1920 px x 6807.8804 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Archivo Regular (OTF)
+Archivo Bold (OTF)
+Happy Time (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+D:\CÔNG VIC\Web Lùng Studio\317762731_123796713879069_8556714699137590886_n.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 6075K, 1440 by 1440 pixels
+Dimensions: 958.457 by 958.457 points 
+Resolution: 108.174 by 108.174 pixels per inch
+
+
+D:\CÔNG VIC\Web Lùng Studio\315477434_112812268310847_7064601042555665108_n.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 3417K, 1080 by 1080 pixels
+Dimensions: 959.957 by 959.957 points 
+Resolution: 81.004 by 81.004 pixels per inch
+
+
+D:\CÔNG VIC\Web Lùng Studio\334291389_1335630317217515_2159563856571418889_n.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2160K, 768 by 960 pixels
+Dimensions: 960 by 1200 points 
+Resolution: 57.6 by 57.6 pixels per inch
+
+
+D:\CÔNG VIC\Web Lùng Studio\315437949_112806501644757_7307831602230664385_n.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 3417K, 1080 by 1080 pixels
+Dimensions: 960 by 960 points 
+Resolution: 81 by 81 pixels per inch
+
+
+D:\CÔNG VIC\Web Lùng Studio\334291389_1335630317217515_2159563856571418889_n.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2160K, 768 by 960 pixels
+Dimensions: 960 by 1200 points 
+Resolution: 57.6 by 57.6 pixels per inch
+
+
+D:\CÔNG VIC\Web Lùng Studio\315216357_112806521644755_2013416425401616202_n.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 3417K, 1080 by 1080 pixels
+Dimensions: 960 by 960 points 
+Resolution: 81 by 81 pixels per inch
+
+
+D:\CÔNG VIC\Web Lùng Studio\nn.tif
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 4480K, 1080 by 1062 pixels
+Dimensions: 515.925 by 507.326 points 
+Resolution: 150.72 by 150.72 pixels per inch
+
+
+D:\CÔNG VIC\Web Lùng Studio\Logo.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 15625K, 2000 by 2000 pixels
+Dimensions: 100.957 by 100.957 points 
+Resolution: 1426.357 by 1426.357 pixels per inch
+
+
+D:\CÔNG VIC\Web Lùng Studio\Logo.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 15625K, 2000 by 2000 pixels
+Dimensions: 159.087 by 159.087 points 
+Resolution: 905.165 by 905.165 pixels per inch
+
+
+D:\CÔNG VIC\Web Lùng Studio\logo 2.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 16363K, 3322 by 1261 pixels
+Dimensions: 558.677 by 212.068 points 
+Resolution: 428.126 by 428.126 pixels per inch
+
+
+D:\CÔNG VIC\Web Lùng Studio\315437949_112806501644757_7307831602230664385_n.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 3417K, 1080 by 1080 pixels
+Dimensions: 1808.261 by 1808.261 points 
+Resolution: 43.003 by 43.003 pixels per inch
+
+
+D:\CÔNG VIC\Web Lùng Studio\317523858_122218387370235_1945229998178104417_n.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 6075K, 1440 by 1440 pixels
+Dimensions: 492.478 by 492.478 points 
+Resolution: 210.527 by 210.527 pixels per inch
+
+
+D:\CÔNG VIC\Web Lùng Studio\314950367_112811098310964_2272593280137188192_n.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2700K, 960 by 960 pixels
+Dimensions: 492.478 by 492.478 points 
+Resolution: 140.351 by 140.351 pixels per inch
+
+
+D:\CÔNG VIC\Web Lùng Studio\315477434_112812268310847_7064601042555665108_n.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 3417K, 1080 by 1080 pixels
+Dimensions: 492.478 by 492.478 points 
+Resolution: 157.895 by 157.895 pixels per inch
+
+
+D:\CÔNG VIC\Web Lùng Studio\317762731_123796713879069_8556714699137590886_n.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 6075K, 1440 by 1440 pixels
+Dimensions: 492.478 by 492.478 points 
+Resolution: 210.527 by 210.527 pixels per inch
+
+
+D:\CÔNG VIC\Web Lùng Studio\314844657_112812264977514_5993027534107792686_n.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 3417K, 1080 by 1080 pixels
+Dimensions: 492.478 by 492.478 points 
+Resolution: 157.895 by 157.895 pixels per inch
+
+
+D:\CÔNG VIC\Web Lùng Studio\315517647_112812938310780_4273422233388326010_n.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 3417K, 1080 by 1080 pixels
+Dimensions: 492.478 by 492.478 points 
+Resolution: 157.895 by 157.895 pixels per inch

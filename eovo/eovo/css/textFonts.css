@@ -1,0 +1,28 @@
+.main_text {
+    font-family: HappyTime
+}
+
+.sub_text {
+    font-family: ArchivoR;
+}
+
+.sub_b_text {
+    font-family: ArchivoB;
+}
+
+.sub_color {
+    color: #e1ded9
+}
+
+
+.main_color {
+    color: #36332e
+}
+
+.bg_sub_color {
+    background-color: #e1ded9
+}
+
+.bg_main_color {
+    background-color: #36332e
+}

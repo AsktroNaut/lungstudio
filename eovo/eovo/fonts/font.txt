@@ -1,0 +1,10 @@
+mã màu
+nền          	E1DED9
+text			36332E
+
+
+
+
+font
+nét viết tay  	Happy time
+text nhỏ  		Archivo

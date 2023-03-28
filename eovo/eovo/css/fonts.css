@@ -1,0 +1,21 @@
+@font-face {
+    font-family: ArchivoB;
+    src: url(../fonts/Archivo-Bold.ttf) format('truetype');
+    font-style:normal;
+  }
+  
+
+
+  @font-face {
+    font-family: ArchivoR;
+    src: url(../fonts/Archivo-Regular.ttf);
+    font-style:normal;
+  }
+  
+
+  @font-face {
+    font-family: HappyTime;
+    src: url(../fonts/HappyTime.otf);
+    font-style:normal;
+  }
+  
