@@ -142,8 +142,8 @@
         width: 100%;
     }
     .mainSlider .tp-caption.h6secondSlide{
-        left: 908px !important;
-        top: 433px !important;
+        left: 978px !important;
+        top: 496px !important;
     }
     #imageSlider {
         /* border: 30px solid #ebebeb; */
@@ -155,6 +155,7 @@
         width: 340px;
     }
     .sl6_paragraph {
+        font-family: ArchivoR;
         width: 100%;
     }
     .mainSlider .tp-caption.h6thirdSlide {
@@ -168,8 +169,8 @@
         top: 591px !important;
     }
     .mainSlider .tp-caption.h6firstSlide {
-        left: 411px !important;
-        top: 406px !important;
+        left: -111px !important;
+        top: 326px !important;
     }
     .conText img{
         width: auto !important;
@@ -286,12 +287,12 @@
         padding-left: 60px;
     }
     .mainSlider .tp-caption.h6firstSlide {
-        left: 255px !important;
+        left: -120px !important;
         top: 375px !important;
     }
     .mainSlider .tp-caption.h6secondSlide {
-        left: 748px !important;
-        top: 400px !important;
+        left: 850px !important;
+        top: 504px !important;
     }
     .mainSlider .tp-caption.h6thirdSlide {
         right: 145px !important;
@@ -366,10 +367,10 @@
         margin-top: 280px;
     }
     .mainSlider .tp-caption.h6firstSlide {
-        left: 175px !important;
+        left: -98px !important;
     }
     .mainSlider .tp-caption.h6secondSlide {
-        left: 668px !important;
+        left: 748px !important;
     }
     .mainSlider .tp-caption.h6thirdSlide {
         right: 65px !important;
@@ -566,19 +567,23 @@
         max-width: inherit;
         height: 370px;
         width: 260px;
-        z-index: 30;
+        z-index: 60;
     }
     .mainSlider .tp-caption.h6firstSlide {
-        left: 175px !important;
+        left: -70px !important;
+        top: 372px !important;
+        
+        
     }
     .sl_heading2 {
         width: 100%;
     }
     .mainSlider .tp-caption.h6secondSlide {
-        left: 665px !important;
-        top: 235px !important;
+        left: 584px !important;
+        top: 484px !important;
     }
     .sl6_paragraph {
+        font-family: ArchivoR;
         width: 100%;
     }
     .mainSlider .tp-caption.h6thirdSlide {
@@ -1104,6 +1109,7 @@
         width: 100%;
     }
     .sl6_paragraph {
+        font-family: ArchivoR;
         letter-spacing: 0;
         margin-left: auto;
         margin-top: 195px;
@@ -1130,7 +1136,7 @@
         margin-right: 0;
     }
     .slider6 {
-        margin-top: 30px;
+        margin-top: 112px;
     }
     .slider6 .mainSlider,
     .slider6{
@@ -1140,6 +1146,21 @@
         width: 100% !important;
         left: 0 !important;
         top: 0 !important;
+        
+    }
+    .slider6 .mainSlider .tp-caption.h6firstSlide{
+        font-size: 10px;
+        
+        margin: 80px auto 0 !important;
+        text-align: center;
+        
+    }
+    .slider6 .mainSlider .tp-caption.h6secondSlide{
+        font-size: 10px;
+        
+        margin: 130px auto 0 !important;
+        text-align: center;
+        
     }
     .slider6 .mainSlider .tp-revslider-slidesli {
         margin-top: 100px !important;
@@ -2881,9 +2902,10 @@
         width: 100%;
     }
     .sl6_paragraph {
+        font-family: ArchivoR;
         letter-spacing: 0;
         margin-left: auto;
-        margin-top: 150px;
+        /* margin-top: 150px; */
         text-align: center;
         width: 100%;
         float: none;
@@ -2907,7 +2929,7 @@
         margin-right: 0;
     }
     .slider6 {
-        margin-top: 60px;
+        margin-top: 160px;
     }
     .slider6 .mainSlider,
     .slider6{
@@ -2916,8 +2938,23 @@
     .slider6 .mainSlider .tp-caption{
         width: 100% !important;
         left: 0 !important;
-        top: 0 !important;
+        
+        text-align: center;
     }
+    .slider6 .mainSlider .tp-caption.h6firstSlide {
+        width: 100% !important;
+        top: 56px !important;
+        
+        text-align: center;
+    }
+    .slider6 .mainSlider .tp-caption.h6thirdSlide {
+        width: 100% !important;
+        top: 136px !important;
+        
+        text-align: center;
+    }
+
+    
     .slider6 .mainSlider .tp-revslider-slidesli {
         margin-top: 100px !important;
     }
